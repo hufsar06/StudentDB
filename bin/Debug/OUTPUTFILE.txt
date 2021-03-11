@@ -1,0 +1,20 @@
+David
+Dillon
+3.7
+ddillon@uw.edu
+2/18/2021 12:55:46 AM
+Alice
+Anderson
+0.7
+aanderson@uw.edu
+2/18/2021 12:55:46 AM
+Bob
+Bradshaw
+3.9
+bbradshaw@uw.edu
+2/18/2021 12:55:46 AM
+Carlos
+Castaneda
+3.8
+ccastaneda@uw.edu
+2/18/2021 12:55:46 AM
